@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xihaoli)
 
-[![Xihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=xihaoli)](https://github.com/anuraghazra/github-readme-stats)
+[![Xihao's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xihaoli)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
